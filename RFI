@@ -1,0 +1,25 @@
+Request For Information
+Date:	March 29, 2023	Response Date:	
+Subject:	LES Objectives 1&3 baseline assessments 
+Question:	Response:
+1.	Updated electrical one-line diagram showing the system in its normal configuration as well as the boundaries and normal open points between the different electrical islands. 	
+2.	Line parameters (Conductor size, number of circuits, and number of conductors per phase) for HV and MV systems in the grid. This should include existing, under-construction, and planned lines.	
+3.	System configuration for the following equipment.
+•	Transformers with (impedance, voltage, and configuration) winding configuration.
+•	Utility SC information (MVA) of all large plants connected to the grid. 
+•	Substation and plant loads (KW, KVA, KVAR)
+This is applicable for all stations/substations included in SLD.	
+4.	Study Modelling information: Recorded substation peak load data (MW and MVAR) for substations in the SLD (or) at least for major substations.
+This would be helpful if the peak loads eventually provided have a date/time stamp of some sort so we can determine coincident system peaks.	
+5.	EdLL’s plan for synchronization of additional existing generation facilities to the grid (If it is not already indicated in the SLD).	
+6.	Demand curves for grid loads showing demand by time of day.	
+7.	Switchgear specifications and drawings of the major substations in Ramu grid.	
+8.	Relay specifications and settings for the grid connected Substations and Power Generation facilities.	
+9.	Nameplate / technical specifications for the planned Gas generators (type, quantity, optional equipment installed)	
+10.	Steady-state and transient stability data to set the dynamic model parameters: Please share the dynamic characteristics of the Synchronous Generators connected to the grid. These are Generator’s operational parameters which form important inputs to the model for performing dynamic analysis.	
+11.	Busbar voltages of the MV switchgear: Please share an excel sheet with 24 Hour (Hourly intervals) voltage readings for the MV Bus in the grid-connected substations including Seasonal readings.	
+12.	MV feeder active power, reactive power, and current: Please share an excel sheet with 24 Hour (Hourly intervals) P, Q, and I readings for the MV Bus in the grid-connected substations. Seasonal readings would be preferred if available.	
+13.	Schedules of load shedding and inter-substation power exchange: This will be a description of EdL’s operations regarding load shedding and management. An example of this would be a schedule of planned power cuts or energization of different feeders at different times of the day. This will help us model the connected load vs peak loads accurately. If this is not available, we will make assumptions and list them in the report	
+14.	Frequency setpoints: Please share the frequency set points (+/- Hz) used for Primary control, Secondary control, and tertiary control. These are predefined limits set for Generators in the grid regulated by PPL. 
+(For example: The nominal value setting could be +/- 0.1 Hz and the emergency reserve setting would be +/- 1 Hz and so on)	
+
