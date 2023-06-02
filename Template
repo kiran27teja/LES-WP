@@ -1,0 +1,213 @@
+Trip Report for PNG Electrification Partnership Activity
+Submitted by: Kiran Sabbineni
+Travel Dates: 31 Aug 2022 – 2 Oct 2022
+Purpose
+The key focus of the United States Agency for International Development (USAID) Papua New Guinea (PNG) Electrification Partnership (PEP) Objective 1 is to strengthen PNG Power Limited’s (PPL) financial viability and operational efficiency. The PEP Objective 2’s focus is to develop Viable Off-Grid Electrification Models is to support improvements in off-grid and mini-grid markets. As part of these efforts, the ESG Distribution Engineering Team Leader`s (DETL) trip was focused on supporting the local ESG team to develop technical deliverables as stated on the Activity’s Fiscal Year (FY) 2022 Work Plan for Year 2 (Y2), covering October 1, 2021, through September 30, 2022; and supporting the Objective 1 team lead on year 2 deliverables and consultations with PPL to plan for the year 3 deliverables. 
+Summary of Activities
+Objective 1:
+1.	Conducted multiple briefings with PPL to develop a methodology for the calculation and benchmarking of reliability metrics. This paved a way for the timely finalization of deliverables under sub-objective 1.2.5 of the Y2 work plan. 
+2.	Held introductory meetings with PPL’s Asset Management, Planning, Generation, and Supervisory Control and Data Acquisition System (SCADA) teams to establish future coordination for key sub-objectives and developed road maps for the respective deliverables. These teams assured their cooperation in timely information sharing and reviews of draft deliverables.
+3.	Developed a priority list of sub-objectives and critical tasks for year 3 along with due dates for the deliverables.
+4.	Revised and submitted the reliability metrics evaluation report with inputs from briefings with PPL. This completed the sub-objective 1.2.5 of the year 2 work plan. 
+5.	Held multiple consultations with PPL’s National System Operations (NSO) team. These consultations helped narrow down the areas of focus for identifying outages unrelated to generation shortfall and will significantly improve the efficiency of follow-on analyses.
+6.	Reviewed the protection and voltage optimization reports shared by PPL’s NSO to provide recommendations on the protection settings.  
+7.	Delivered the System Average Interruption Duration Index (SAIDI) and System Average Interruption Frequency Index (SAIFI) presentation to PPL’s NSO and SCADA teams to align on recommendations and calculations. 
+8.	Held a workshop with PPL’s NSO, and SCADA teams to finalize the revised interruption cause codes.
+9.	Updated the reliability performance framework following a discussion with PPL’s NSO team. 
+10.	Reviewed the performance turnaround plan and provided insights to the objective 1 team on SCADA and outage analysis.
+11.	Delivered a training session on SAIDI and SAIFI to PPL’s National System Operator (NSO), Asset Management (AM), and Generation teams.  
+12.	Reviewed the SCADA architecture and specifications for the Port Moresby (POM) and Gazelle grids. 
+13.	Identified the worst-performing feeders for the POM grid to prepare the SCADA expansion priority list. 
+14.	Reviewed the SCADA specifications and communication protocols between the numerical relays and PPL’s central SCADA system. 
+Objective 2: 
+1.	Developed system sizing along with the preliminary demand assessmnent for Kupiano and Gavuone mini-grids.
+2.	Reviewed the site assessment checklist and site assessment procedures for mini-grids. 
+3.	Reviewed completed site assessments for mini-grids. 
+4.	Reviewed the mini-grid site assessment template and helped update the solar and hydro mini-grid assessment process. 
+5.	Reviewed the Kupiano and Gavuone solar Photo Voltaic (PV) mini-grid Geographic Information systems (GIS) models and provided feedback on the distribution network.
+6.	Reviewed mini-hydro site reconnaissance reports.
+7.	Reviewed and provided feedback on the Tufi distribution grid.
+8.	Reviewed PNG Civil Aviation Safety Authority (CASA) regulations on the glare and glint effect of Solar Panels near airports. 
+9.	Updated the GIS model for the Tufi mini-grid by adding the CASA notification zone within the airstrip’s take-off fan of origin.
+Proposed Next Steps
+
+1.	Perform analysis on causes for distribution outages unrelated to supply adequacy.
+2.	Initiate reviews of PPL’s plant maintenance program and manufacturer-recommended maintenance plans.
+3.	Review SCADA architecture and schematics for POM, Gazelle, and Ramu grids.
+4.	Identify worst-performing feeders to develop a priority list for SCADA system expansion and upgrades.
+5.	Review power plant maintenance plans shared by PPL’s generation team.
+6.	Review of predevelopment models for the health facility mini-grids.
+7.	Review site visit reports and complete site assessment checklists.
+8.	Review of predevelopment models for the health facility mini-grids.
+9.	Review Angoram site visit reports and completed site assessment checklist.   
+10.	Finalize site assessment process flow drawing. 
+11.	Assist local engineers in developing Single Line Drawings (SLD) for Kupiano and Gavuone mini-grids.
+Schedule of Meetings with Stakeholders 
+
+Date	Stakeholder	Participants
+06 Sep	PPL – National System Operations team	PPL-NSO: Lillian Sukot, Albert Boka, Joseph Basse, Anagi Bimer, and Benedicta Savage
+USAID-PEP: Kiran Sabbineni
+08 Sep	PPL – National System Operations team	PPL-NSO: Lillian Sukot, Albert Boka, Joseph Basse, and Anagi Bimer
+USAID-PEP: Kiran Sabbineni
+08 Sep 	PPL – Planning and Asset Management	PPL: Francis Uratun, Vera Lama
+USAID-PEP: Kiran Sabbineni
+14 Sep 	PPL – National System Operations team	PPL-NSO: Lillian Sukot, Joseph Basse, and Benedicta Savage 
+USAID-PEP: Kiran Sabbineni
+14 Sep 	PPL – Planning team	PPL: Maira Pulayasi, Kero Tom.
+USAID-PEP: Kiran Sabbineni
+15 Sep	PPL – SCADA team	PPL: Albert Boka
+USAID-PEP: Kiran Sabbineni
+21 Sep 	PPL – Asset Management, NSO, and Generation teams	PPL: Lillian Sukot, Benedicta Savage, Albert Boka, Joseph Basse, Simon Deveo, Aaron Kusunan, Donnia Bomai, Mulivoa Kaiulo, Rawali Rawali
+USAID-PEP: Kiran Sabbineni
+23 Sep	USAID-PEP: ESG, Delphos, and RTI	USAID-PEP: Cheng Lee, Kiran Sabbineni, Eric Shumway and Utsav Adhikari
+
+26 Sep	PPL - Generation team	PPL: Benny Kimisive, Mulivoa Kaiulo
+USAID PEP- Cheng Lee, John Yanis, Kiran Sabbineni
+27 Sep	PPL – Protection and NSO teams	PPL: Lillian Sukot, Benedicta Savage, and Anagi Bimer
+USAID – PEP: Kiran Sabbineni
+
+ 
+Meeting Summaries 
+
+
+Date	Stakeholder	Participants
+06 Sep	PPL – National System Operations team	PPL-NSO: Lillian Sukot, Albert Boka, Joseph Basse, Anagi Bimer, and Benedicta Savage
+USAID-PEP: Kiran Sabbineni
+Notes: The purpose of the meeting was to present the findings of the reliability metrics evaluation. 
+•	PPL’s NSO will consult internally with Asset management, planning, and Protection departments and provide additional feedback on the reliability metrics report.
+•	PPL will consult with the retail division and provide an estimated number of customers for the POM and Ramu grids.  
+•	The cause codes or interruption datasets should be able to capture time in between failures. 
+•	A significant portion of all outages are captured as equipment failure. This attribute should be further refined into subcategories to allow analysis and benchmarking. 
+•	The interruption cause codes will need to be restructured to identify and capture the causes of interruptions effectively.
+Action Items: USAID-PEP will present the recommended set of cause codes and reliability performance framework for PPL’s confirmation.
+PPL’s NSO team.
+
+
+
+
+
+Date	Stakeholder	Participants
+08 Sep	PPL – National System Operations team	PPL-NSO: Lillian Sukot, Albert Boka, Joseph Basse, and Anagi Bimer
+USAID-PEP: Kiran Sabbineni
+Notes: The purpose of the meeting was to present the proposed cause codes, reliability performance framework, and target thresholds. 
+•	PPL’s NSO team will share the revised outage datasets which contain additional attributes on t   responsible system.
+•	Revised and expanded cause codes are necessary to capture refined insights into outages. Therefore, the current set of codes for equipment failure (C1) will be expanded further.  
+•	PPL agreed to the content of recommended cause codes. However, the coding will need to be finalized during follow on discussions. 
+•	PPL will involve the asset management team for their input during the next discussions
+•	Planned outages will be excluded from benchmarking and reporting but included for analysis.
+•	Generation-related outages will be excluded from analysis but included for reporting and benchmarking. 
+•	Retail division has a revised estimate of the number of customers. This can be used to recalculate SAIDI and SAIFI baselines
+Action Items: 
+•	USAID-PEP will re-analyze the outage data sets by excluding the generation shortfall outages and other IEEE-1366 recommended exclusions.
+•	PPL will internally discuss the coding system and confirm/revise the proposed codes.
+
+
+Date	Stakeholder	Participants
+08 Sep 	PPL – Planning and Asset Management	PPL: Francis Uratun, Vera Lama
+USAID-PEP: Kiran Sabbineni
+Notes: The purpose of the meeting was to introduce the respective sub-objectives to the planning and AM teams and discuss challenges and paths forward.  
+•	AM team agreed to meet with the PEP team to discuss the plant maintenance program on September 19, 2022.
+•	AM team receives outage metrics from NSO and does not maintain a separate set of metrics for analysis. AM uses the same cause codes as listed by NSO.   
+•	Planning team is used to visual-based system analysis tools and the learning curve to adapt a coding-based tool will be steep.
+•	Planning team prefers Power factory or ETAP for modeling and analysis as most of their staff are trained in these tools
+Action Items: 
+•	USAID-PEP will develop an evaluation report with a comparative analysis of different planning software. 
+•	Additionally, further analyses and consultations with other PPL teams are needed to recommend a system planning software 
+
+Date	Stakeholder	Participants
+14 Sep 	PPL – National System Operations team	PPL-NSO: Lillian Sukot, Joseph Basse, and Benedicta Savage 
+USAID-PEP: Kiran Sabbineni
+Notes: The purpose of the meeting was to discuss the proposed cause codes, reliability performance framework, and target thresholds. 
+PPL’s NSO presented their preferred structure for revised cause codes.
+•	The planned outages will still need to be separated from other contingencies like generation shortfall and unplanned maintenance. PPL’s preferred structure of cause codes clubs all three into the same code. 
+•	PPL does not want to maintain a separate attribute to capture the responsible system (G, T, D). Instead, these attributes will need to be coded into the causes. 
+•	PPL expressed interest in adding Energy loss measurements into the reliability performance framework. This new metric, although useful, will be misleading as the losses for most of the grid are not accurately captured by PPL. 
+•	Even though PPL provided the revised customer numbers for the three main grids, the number of customers connected in each feeder is still to be determined. Therefore, the SAIFI and SAIDI calculations will continue to be based on the previously reported customer numbers.
+
+Action Items: 
+•	USAID-PEP will revise the report incorporating the insights gathered during the briefings with PPL
+•	A follow-on effort to identify and reduce outages unrelated to generation shortfall will be undertaken as part of the year 3 work plan
+•	The finalized recommendations and findings will be presented to PPL’s NSO, Asset management, and Generation teams before the final submission
+
+Date	Stakeholder	Participants
+14 Sep 	PPL – Planning team	PPL: Maira Pulayasi, Kero Tom.
+USAID-PEP: Kiran Sabbineni
+Notes: The purpose of the meeting was to discuss the system planning toolkit and the existing grid impact assessment procedures. 
+•	The planning team has previously used different software to model and analyze the system.
+•	Presently, all grid impact assessments are outsourced to an outside consultant.
+•	The PPL’s planning department would like to be able to perform grid impact assessments in-house. To this end, the team is aiming to standardize the usage of common software. 
+•	PPL currently has five licenses for Power Factory and all of them are being used by the NSO team.
+•	Planning team is currently performing demand assessments and Economic Dispatch analysis in excel. 
+Action Items: PEP team will meet with NSO and planning teams to discuss collaboration on system modeling and license transfers to the planning team.
+
+
+
+
+Date	Stakeholder	Participants
+15 Sep	PPL – SCADA team	PPL: Albert Boka
+USAID-PEP: Kiran Sabbineni
+Notes: The purpose of the meeting was to discuss SCADA system coverage, upgrade, and extension.  
+•	As the SCADA visibility on the three grids is limited, there is no automatic generation control. As a result, the operators respond manually to generation shortfalls or faults. This adversely affects the grid reliability and key equipment.
+•	PPL’s automation and control group oversees the SCADA system. Without effective coverage, the automation and control group of PPL is unable to provide timely operational insights to the NSO to react to transients and other contingencies.   
+•	PPL lacks feeder-level monitoring and control in most of the system. This, combined with a lack of metering infrastructure at the load side, exacerbates the challenges with load monitoring.
+•	Based on preliminary reviews, the corrective actions for the upgrade of the SCADA system shall include:
+o	A thorough review of the existing coverage of the SCADA system 
+o	A preliminary review of the existing SCADA system’s adaptive relay protection settings
+o	Testing of SCADA’s control philosophy across key substations
+o	Identify key areas for expansion
+o	Integration of the SCADA system with the load control center
+Action Items: USAID-PEP will send an information request for the SCADA network architecture schematics and other technical specifications for the three main grids.
+
+Date	Stakeholder	Participants
+21 Sep 	PPL – Asset Management, NSO, and Generation teams	PPL: Lillian Sukot, Benedicta Savage, Albert Boka, Joseph Basse, Simon Deveo, Aaron Kusunan, Donnia Bomai, Mulivoa Kaiulo, Rawali Rawali
+USAID-PEP: Kiran Sabbineni
+Notes: The purpose of this meeting was to: (1) Present the findings and recommendations of the reliability metrics evaluation report; (2) Establish SAIDI and SAIFI baselines, target thresholds, and reporting process; (3) Brief PPL’s Generation and AM teams on the outcomes of ongoing consultations with NSO.
+•	The cause codes for all overload conditions were captured among the A and G codes. Therefore, the cause category for overloads will be removed.
+•	The planned outages will still need to be separated from other contingencies like generation shortfall and unplanned maintenance.
+•	Additional attributes to identify the responsible system will be coded into the revised cause codes instead of maintaining a separate column in the outage datasets.
+•	USAID-PEP recommended the use of a reliability performance framework to keep track of additional, nontraditional performance metrics in conjunction with SAIFI and SAIDI.  The reliability performance framework will serve as a leading indicator for performance improvements if incorporated by PPL.
+•	During the consultations, PPL’s NSO and USAID-PEP discussed incorporating Energy loss measurements into the reliability performance framework. This new metric, although useful, will not be very effective as the losses for most of the grid are not accurately captured by PPL
+•	The reliability performance framework should include a metric to capture time in between failures and Capacity factor under the reliability criteria.
+•	PPL’s AM team is working with the Retail team to estimate the number of customers per feeder. Once all the feeders are accounted for, the reliability metrics calculations will be revised using accurate customer numbers.
+Action Items: 
+•	USAID-PEP will revise the report incorporating the insights gathered during the briefings with PPL. 
+•	USAID-PEP to include the reliability performance framework template as an appendix to the reliability metrics assessment report.
+•	USAID-PEP to revise the OFR sheet to include the revised cause codes in a drop-down format to share the briefing presentation and revised cause codes list with PPL
+
+
+Date	Stakeholder	Participants
+23 Sep	USAID-PEP: ESG, Delphos, and RTI	USAID-PEP: Cheng Lee, Kiran Sabbineni, Eric Shumway and Utsav Adhikari
+
+Notes: The purpose of the meeting was to discuss C-center generation hybridization. 
+•	The C-center information template will be distributed to all facilities through Benny Kimisive (PPL Generation unit director) to advance the database portion of the task. 
+•	Delphos will share the model files from economic dispatch training (also covering some expansion planning topics) by end of the week. 
+•	Kiran will put together the technical sections of the hybridization workshop along with inputs to the economic dispatch model. 
+•	Through the workshop, an expansion planning exercise will be conducted to propose an action plan to phase out diesel-based power generation. 
+Action Items: Delphos to send through a version of the C-center template with demand in half-hours, to complement the one in hours and put together a least-cost generation model.
+
+Date	Stakeholder	Participants
+26 Sep	PPL - Generation team	PPL: Benny Kimisive, Mulivoa Kaiulo
+USAID PEP- Cheng Lee, John Yanis, Kiran Sabbineni
+Notes: The purpose of this meeting was to discuss USAID PEP’s activities supporting the Generation unit and the next steps for the plant maintenance evaluations.
+•	The Generation team intends to maintain a focused plan separate from PPL’s corporate plan.
+•	Generation team presented their capital investment overview along with organizational structure and operation and maintenance plans for the next three years. 
+•	40% of the generation units across the three main grids are out of service. 
+•	Improvements in maintenance and planning along with inventory management are one of the key areas of focus for the short to medium term for Generation.  
+•	DFAT is funding PPL in capacity expansion and maintenance of existing generation facilities. However, there is currently no effort to support plant maintenance planning.  
+•	The generation team is focusing on capacity building in maintenance. 
+Action Items: PPL’s Generation unit to share the database of installed generators and current maintenance plans.
+
+Date	Stakeholder	Participants
+27 Sep	PPL – Protection and NSO teams	PPL: Lillian Sukot, Benedicta Savage, and Anagi Bimer
+USAID – PEP: Kiran Sabbineni
+Notes: The purpose of the meeting was to discuss PPL’s capacity to handle protection and relay maintenance. 
+•	Protection relays in the POM and Ramu system used to be inspected regularly. However, no routine inspections have been performed since the inspection equipment malfunctioned.
+•	Since many of the Transmission lines do not have (n-1) redundancy, PPL is unable to put those lines out of service for routine inspections.
+•	The PPL’s protection team is understaffed and under-equipped to handle regular preventative maintenance and servicing of relays.
+•	only two protection experts are coordinating ng the efforts for testing, maintenance, and operations on the three main grids.
+•	Many relays have never been recalibrated since their original installation. Therefore, the operational condition and set point accuracy for these relays cannot be ascertained.
+•	There is no central, comprehensive database where the relay settings across the system can be maintained and updated.
+•	The SCADA system has visibility over the protective devices for approximately 50% of the system. However, due to incorrect address mapping, the relay operation logs are not being stored in the central SCADA system. 
+Action Items: 
+•	PPL to share all the available data on relay settings and inventory.
+
