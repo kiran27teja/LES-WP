@@ -1,0 +1,405 @@
+WEEKLY ACTIVITY REPORT 
+1.0	 PEP OBJECTIVE 1 
+1.1	SUMMARY OF WORK
+•	Continued developing the plant maintenance best practices manual to support PPL Generation.
+•	Attended a meeting with the Objective 1 lead to discuss the findings of the outage analysis and Power Factory training.  
+
+1.2	PLANNED ACTIVITIES FOR THE NEXT REPORTING PERIOD
+•	Prepare a presentation summarizing the outage analysis report and findings.
+•	Share the Ramu grid steady state analysis results with the objective 1 lead.  
+•	Prepare and submit the draft plant maintenance best practices manual. 
+2.0	PEP OBJECTIVE 2  
+2.1	SUMMARY OF WORK
+•	Developed the preliminary distribution network design of the Karkar mini-grid.
+•	Attended meetings with the Objective -2 lead and the RTI GIS team to revise the Karkar (Kinim station) mini-grid.
+2.2	PLANNED ACTIVITIES FOR THE NEXT REPORTING PERIOD
+•	Complete the revised Karkar mini-grid design and coordinate the mapping with the RTI GIS team.
+3.0	LES OBJECTIVE 1 & 3
+3.1	SUMMARY OF WORK
+•	Attended multiple meetings with EdL’s planning team to assess existing planning analyses and tools.
+•	Supported EdL’s planning team in importing the PSS-E data to PLEXOS and restructuring of non-PSS/E data.
+•	Attended meetings with the Department of Energy Management (DEM) to discuss support for the infrastructure inspections and preparation of Transmission Line and Substation inspection standards and manuals.
+•	Facilitated coordination between Energy Exemplar and the EdL planning team to structure the training and data imports to PLEXOS.
+•	Attended introductory meetings with EdL’s distribution team to discuss potential areas of LES’ support.  
+3.2	LIST OF MEETINGS 
+1.3.1	Summary of Meeting with EdL 
+May 02, 2023 
+LES: Kiran Sabbineni, Randall Nottingham, Kamsing Phosalath, Viengnakhone Lavongvilay
+EdL: Chitpanya Phamisith, Alignakone Saignasane, Daosamai, Kanthanachuckv
+Discussions: 
+The purpose of this meeting was to introduce the LES’ Power systems expert and review the existing analyses being conducted by the EdL’s planning team. 
+•	Mr. Chitpanya provided an overview of the Power system planning functions of his department. 
+•	The long-term system planning for Hydro and system integration is presently done on Microsoft Excel and operational planning is done on PSS/E.
+•	EdL would like to transition some of the analyses to PLEXOS to gain better insights for expansion planning.
+•	EdL had power purchase / transfer agreements with all the neighboring countries and would like to analyze a potential regional power integration scenario. 
+•	EdL’s planning team previously unsuccessfully tried exporting the PSS/E model into PLEXOS. LES’ assistance in porting existing data and mapping out some of the key analyses was requested.   
+Key Messages	EdL’s planning team requested LES’ support in successfully porting the PSSE model into PLEXOS and with the training and implementation of PLEXOS for planning and analyses.        
+Challenge	The data required for PLEXOS system integration and long-term system planning is more extensive than the existing data EdL maintains for PSS/E. This will need to be sourced from different databases and consolidated into a single model.
+Actions	•	Kiran to support EdL’s planning team in establishing a data flow and import process. 
+Significance	This meeting helped level set EdL’s expectations from PLEXOS and data related challenges that need to be addressed.
+Photo: LES’ Kiran Sabbineni with Mr. Chitpanya Pamisith, Deputy Manager System Planning Office, EdL and team.
+
+	 
+
+1.3.2	Summary of Meeting with EdL 
+May 03, 2023 
+LES: Kiran Sabbineni, Kamsing Phosalath, Viengnakhone Lavongvilay
+EdL: Chitpanya Phamisith, Alignakone Saignasane, Daosamai, Kanthanachuckv, Inthapone P, Thanomsak.
+Discussions: 
+The purpose of this meeting was to consult with the planning engineers on the types of analyses they perform on Excel and PSS/E and identify the analyses that can be performed on PLEXOS with the available data.  
+•	Alignaknone provided an overview of the Load grid and characteristics of the export/import dedicated Transmission lines.
+•	There are three main subsystems operated by EdL with in laos and sever other export dedicated Transmission systems independent to the Laos domestic grid.
+•	One of the problems EdL is trying to solve is the Transmission Line congestion management on the export line to Thailand.
+•	For long-term system planning, EdL currently uses a hybrid methodology utilizing stochastic and time-series expansion models for production forecastst and trend analyses for demand forecasts.
+•	EdL would like to understand the data requirements for each type of analysis and develop alternative approaches if the data is not available.
+•	LES’ Kiran Sabbineni presented a matrix of analysis that can be performed on PLEXOS with the data that EdL currently maintains.  
+Key Messages	EdL’s planning team is interested in Integrated Energy modeling, Long-term capacity expansion planning and short-term operational planning.        
+Challenge	The data required for PLEXOS system integration and long-term system planning is more extensive than the existing data EdL maintains for PSS/E. This will need to be sourced from different databases and consolidated into a single model.
+Actions	•	EdL to review the data and analysis metrics provided by LES and identify the data available and partially available data. 
+Significance	This meeting helped identify the types of analyses EdL would like to perform and the current issues in the EdL grid.
+Photo: LES’ Kiran Sabbineni with Mr. Chitpanya Pamisith, Deputy Manager System Planning Office, EdL
+
+	 
+Photo: LES’ Kiran Sabbineni briefing EdL’s engineers on PLEXOS
+	 
+
+
+1.3.3	Summary of Meeting with Energy Exemplar and EdL 
+May 04, 2023 
+LES: Kiran Sabbineni, Randall Nottingham, Kamsing Phosalath, Viengnakhone Lavongvilay
+EdL: Chitpanya Phamisith, Alignakone Saignasane, Daosamai, Kanthanachuckv, Inthapone P, Thanomsak.
+Energy Exemplar: Mark Dolan, Nusrat Prova
+Discussions: 
+The purpose of this meeting was to discuss the training schedule and data requirements for developing the base model in PLEXOS.  
+•	During consultations with the LES team, EdL identified three functions where PLEXOS could be used – Integrated Energy Modelling, Long term expansion planning and short term operational planning.
+•	The data needs for each if these analyses is different and will depend on the problem statement and objectives for each study. 
+•	The data format and frequency required for base case model development will need to be identified collected. 
+•	PLEXOS team will share a data requirements template for EdL to populate from the PSS/E and other models.
+•	The PLEXOS team provided some use cases and examples on the capabilities of the software and the associated data requirements. 
+Key Messages	EdL will focus on collecting data necessary for the base case building before a deeper review of data for specific analyses.
+LES will support EdL in collection and or compilation of data and identify priorities for base model building.        
+Challenge	The PSS/E version being used by EdL is V33 and the hydrological data is saved in individual excel sheets for each generation facility. There are some inconsistencies in how the data is reported by each generation facility. This will need to be revised into a common format for PLEXOS. 
+Actions	Energy Exemplar to provide the data requirements template for EdL’s input and action. 
+Significance	The key parameters and metrics required for the PLEXOS base case were identified and planned in cincultation with Energy Exemplar during this meeting.
+Photo: EdL and LES teams with the Energy Exemplar team	 
+
+1.3.4	Summary of Meeting with Department of Energy Management (DEM) 
+May 05, 2023 
+LES: Kiran Sabbineni, Randall Nottingham, Kamsing Phosalath, Viengnakhone Lavongvilay
+DEM: Ms. Louvanny Sivannavong, Sisaby Chantasombath, Lampanh Bousawai, Dona Soulivathai, Syvang Xayavong, Houmpanh Vongphachanh. 
+Discussions: 
+The purpose of this meeting was to discuss the assistance LES can provide DEM in developing the infrastructure inspection program.  
+•	Mr. Houmpanh Vongphachanh, Deputy director general of DEM, introduced his team and provided an overview of the current infrastructure inspection procedures.
+•	DEM is responsible for conducting design reviews, and inspections during the pre-commissioning, construction, and operation phases of all projects.
+•	The Laos technical standards specify DEM’s role in inspecting the substation and Transmission lines. However, the existing standards do not have details of the scope and checklists of inspections. 
+•	Mr. Houmpanh requested LES’ assistance with developing the manuals and check lists for Transmission line and Substation inspections and, ToRs for the basic design of Substations and Transmission lines.
+•	The DEM would also require technical support for the review and amendment of existing Lao Electrical standards and Government planning. 
+•	Mr. Houmpanh requested LES’ support for the inspection and collection of operational and technical data on the condition of Assets, Power Generation facilities, Transmission lines, and Substations. 
+Key Messages	DEM requested LES’ support on a range of issues from infrastructure inspections to the development of technical standards and guidelines.        
+Challenge	There is currently very limited information on the role and scope of DEM in reviewing designs and project inspections. The Lao technical and Electrical standards document does not clearly specify EdL and DEM’s roles and responsibilities. This will need to be clarified in follow on consultations with DEM and EdL. 
+Actions	•	DEM to provide an example of their current project inspection checklists and reports. 
+Significance	This meeting helped identify the areas in which DEM is looking for support from LES.
+Photo: 	Unavailable
+
+1.3.5	Summary of Meeting with EdL 
+May 05, 2023 
+LES: Kiran Sabbineni, Randall Nottingham, Kamsing Phosalath, Viengnakhone Lavongvilay
+EdL: Alignakone Saignasane, Daosamai, Kanthanachuckv, Inthapone P, Thanomsak.
+Discussions: 
+The purpose of this meeting was to support EdL in coverting the non-PSS/E data into a PLEXOS compatible template.  
+•	Based on the discussions with the Energy Exemplar team, the PSS/E model data can be directly ported to PLEXOS through the raw files.
+•	The non-PSS/E data, such as the hydrological and load profiles will need to be converted into a format that can be read by PLEXOS and indirectly imported to supplement the PSS/E model data.
+•	Energy Exemplar team provided a CSV template showing the essential and optional data needed for base case modeling in PLEXOS. 
+•	Since majority of energy generation in Laos is Hydro dependent, parameters like storage volume and flow rate were identified as priorities. 
+•	A few issues with the regional and unit codes were set up on PSS/E were also identified and a rectification plan was discussed.
+•	The PSS/E model has 145 nodes and 148 generator units. Since this is a large amount of data, EdL will identify a smaller sub system within Laos to model a pilot grid. This can then be expanded to the complete national grid at a later stage. 
+Key Messages	EdL will prioritize gathering and reformatting the non PSS/E data for Hydro Generation, Transmission lines and load profiles.        
+Challenge	The electric grid in Laos is not a single synchronous system. There are multiple subsystems either as export dedicated Transmission systems or connected to one of the neighboring countries. Selecting a regional network for modelling may not represent the overall characteristics of the Laos grid.  
+Actions	EdL to populate the Hydrological data into the PLEXOS data template and select a subsystem to build a base case for training.  
+Significance	This meeting helped figure out a methodology to import non-PSS/E data into the PLEXOS data template.
+Photo: LES team with the EdL planning team.	 
+
+1.3.6	Summary of Meeting with EdL 
+May 08, 2023 
+LES: Kiran Sabbineni, Randall Nottingham, Kamsing Phosalath, Viengnakhone Lavongvilay
+EdL: Daosamai, Kanthanachuckv, Inthapone P, Thanomsak.
+Energy Exemplar: Mark Dolan, Nusrat Prova, Hai Nguyen
+Discussions: 
+This meeting was a workshop to convert the hydrological, load and Transmission line data into a PLEXOS compatible format.  
+•	The Substation and nodal data in PSS/E have regional codes specified in the model but the Transmission line data has no associated regional codes in PSS/E. This will need to be developed manually in PLEXOS.
+•	The latest full year hydrological data EdL has for flow and volume is 2021. For building the base case, the team will use the minimum and maximum values recorded in 2021 and use the last recorded value for 2021 as the initial value for long term expansion planning.
+•	The volumes will be specified for Reservoir based generation facilities. Only the waterway flow data will be populated for run off river projects. 
+•	EdL models generators located outside the country as slack buses. This may continue to be the case in PLEXOS as the specifications and ratings of these generators are unavailable. 
+•	The Energy Exemplar team confirmed that data transfer from PSS/E to PLEXOS is expected to be seamless. However, EdL will need to prepare the non-PSS/E data in the template that was provided. 
+Key Messages	EdL has most of the essential data required for building a base model in PLEXOS. LES will provide support in getting this into the PLEXOS compatible format by May 11, 2023. 
+Challenge	The load profiles available with EdL are in different frequencies for each subsystem. The data will have to be aggregated for each region with a common frequency. 
+Actions	•	EdL to work on populating the load profile data.
+•	LES to develop a data template to develop regional codes for Transmission lines.
+Significance	The key parameters and metrics required for the PLEXOS base case were identified and planned in consultation with Energy Exemplar during this meeting.
+Photo: 	 
+
+1.3.7	Summary of Meeting with EdL distribution (VT-1) 
+May 09, 2023 
+LES: Kiran Sabbineni, Kamsing Phosalath, Viengnakhone Lavongvilay
+EdL: Vassana Phetlamphanh (Manager, EdL Distribution, VT-1), Chantang Dethvongpanh, Korlakan Phiavong
+Discussions: 
+The purpose of this meeting was to introduce the USAID-LES program and discuss support EdL’s distribution needs to improve operations and reduce losses.  
+•	The EdL distribution team is part of the Heads of ASEAN Power utility Authorities (HAPUA) program for regional cooperation with 10 other national grids in the region.
+•	The HAPUA conference this year formed several working groups and the EdL distribution’s goals for the current year are:
+o	Improvements to Asset Management
+o	Improving Distribution Reliability and loss reduction
+o	Developing a smart grid road map
+•	The Vientiane 1 (VT-1) distribution branch is responsible for four districts, providing electricity to 159 villages.
+•	The distribution system has 52 feeders with 191,219 connected customers.
+•	Majority of the distribution system is not integrated into the SCADA system and the status of outages and faults is monitored by field reporting and manual data logging.
+•	Through the field reporting the distribution office performs a data-based distribution system planning, keeping track of several performance metrics. 
+•	The VT-1 branch does not have a real time or an accurate estimate of the number of customers connected per feeder. This prevents them from tracking reliability metrics.  
+•	With the distribution network mostly concentrated in urban Vientiane, the average length per MV feeder is 40 kilometers. 
+•	The total distribution losses in VT-1 for 2022 were 9.1 % with 5.6% technical and 4.1% non-technical losses.
+•	EdL’s 2023 target for VT-1 is to reduce the total distribution to 7.79%
+•	Of the 52 feeders in VT-1 only 6 feeders are equipped with auto reclosers. The resultant lack of instant fault clearing is leading to longer outages.
+Key Messages	The EdL’s VT-1 distribution team needs assistance with CYMDIST licenses, smart meters and advanced testing and monitoring equipment . 
+Challenge	None at this stage. 
+Actions	•	EdL VT-1 team to prepare a list of items that they would like assistance with.
+•	LES to organize a follow up meeting with VT-1.
+Significance	This meeting helped provide a greater understanding of EdL’s largest distribution network operator and the challenges they are facing.
+Photo: 	 
+
+1.3.8	Summary of Meeting with EdLPlanning 
+May 10, 2023 
+LES: Kiran Sabbineni, Kamsing Phosalath, Viengnakhone Lavongvilay
+EdL: Daosamai, Kanthanachuckv, Inthapone P, Thanomsak
+Discussions: 
+This meeting was a workshop to transfer the non-PSS/E data into a PLEXOS compatible format.  
+Key Messages	The non-PSSE parameters for Hydro flow rates an volumes and, Transmission regional codes were populated into the PLEXOS template. 
+Challenge	None. 
+Actions	•	EdL to finish gathering load profiles for all nodes and compile into the PLEXOS template
+Significance	This workshop helped further the preparation of input data for successful PLEXOS adoption.
+
+1.3.9	Summary of Meeting with EdL distribution (VT-II) 
+May 10, 2023 
+LES: Kiran Sabbineni, Kamsing Phosalath, Viengnakhone Lavongvilay
+EdL: Phantasamone Vantha, Phattra Savik, Vannaphone Sivilay, Phoun, Thavisith Sisuvlath
+Discussions: 
+The purpose of this meeting was to introduce the USAID-LES program and discuss supporting EdL’s VT-II branch’s distribution needs to improve operations and reduce losses.  
+•	The director of the VT-II branch introduced the leads of each district and provided an overview of the grid under VT-II management. 
+•	VT-II distribution network has 192,854 customers. However, the number of customers per feeder has not been mapped out yet. 
+•	The main issues faced by the VT-II branch are outages and under voltages due to the long and radial distribution MV feeders. 
+•	The SAIFI for 2022 is 5.43 and the SAIDI is 25.85. These values were based on an estimated number of customers per feeder and are expected to change once the customers are mapped to all the feeders. 
+•	The technical and non-technical loss figures 10.24% for VT-II. The target losses for 2023 is 7.75%.
+•	The leads of the five districts under VT-II gave presentations on key issues in their networks.
+Key Messages	The issues faced by VT-II are very different from the ones observed on VT-I. VT-II’s loads are distributed in a wider area and there is a shortage of Reactive power compensation needed for large loads on long radial lines.  
+Challenge	The VT-II team is relying on the CYMDIST model recommendations for the RPC sizing and placement. However, a preliminary calculation of the loads and Power factor values suggests that the RPC components are not sized and placed optimally. This will need to be investigated further during follow-up discussions.  
+Actions	•	EdL VT-I1 team to prepare a list of items that they would like assistance with.
+•	LES to organize a follow up meeting with VT-1I.
+Significance	This meeting helped provide a greater understanding of EdL’s VT-II distribution network operator and the challenges they are facing.
+Photo: 	 
+
+1.3.10	Summary of Meeting with EdL Planning 
+May 10, 2023 
+LES: Kiran Sabbineni, Kamsing Phosalath, Viengnakhone Lavongvilay
+EdL: Daosamai, Kanthanachuckv
+Discussions: 
+This meeting was a workshop to transfer the PSS/E data into PLEXOS.  
+Key Messages	The EdL’s planning team installed the trial version of PLEXOS and the PSS/E data was successfully imported into the PLEXOS model. 
+Challenge	None. 
+Actions	•	LES to assist EdL in importing the non-PSS/E data into PLEXOS 
+Significance	This workshop helped further the preparation of input data for successful PLEXOS adoption.
+
+1.3.11	Summary of Meeting with EdL Planning 
+May 10, 2023 
+LES: Kiran Sabbineni, Kamsing Phosalath, Viengnakhone Lavongvilay
+EdL: Daosamai, Kanthanachuckv
+Discussions: 
+This meeting was a workshop to review the parameters imported into the PLEXOS model and import the non-PSS/E data.  
+Key Messages	The load profiles and hydrological data import was not successful. This may require revisions to reginal coding and nodes.
+Challenge	None. 
+Actions	•	Kiran Sabbineni to arrange a call with PLEXOS technical team to discuss and resolve the issues in importing load profiles and hydrological data.
+Significance	This workshop helped further the preparation of input data for successful PLEXOS adoption.
+
+4.0	OTHER
+•	Provided a write up on PEP past performance to the MCC Belize proposal team.
+•	Developed a capability statement to highlight the Power system analysis tools and capabilities of ESG. 
+WEEKLY ACTIVITY REPORT 
+1.0	 PEP OBJECTIVE 1 
+1.1	SUMMARY OF WORK
+•	Nothing to report.  
+
+1.2	PLANNED ACTIVITIES FOR THE NEXT REPORTING PERIOD
+•	Prepare a presentation summarizing the outage analysis report and findings.
+•	Share the Ramu grid steady state analysis results with the objective 1 lead.  
+•	Prepare and submit the draft plant maintenance best practices manual. 
+2.0	PEP OBJECTIVE 2  
+2.1	SUMMARY OF WORK
+•	Revised and expanded the preliminary distribution network designs of the Bogia and Saidor mini-grids.
+•	Coordinated with the RTI-GIS team in furthering the Karkar, Bogia, and Saidor mini-grids.
+•	Revised the Karkar mini-grid design.
+2.2	PLANNED ACTIVITIES FOR THE NEXT REPORTING PERIOD
+•	Nothing to report.
+3.0	LES OBJECTIVES 1 & 3
+3.1	SUMMARY OF WORK
+•	Attended the PLEXOS training sessions with EdL planning, NCC and Energy Exemplar.
+•	Attended multiple meetings with EdL’s planning team to assess existing planning analyses and tools.
+•	Supported EdL’s planning team in developing the Hydrological and load models on PLEXOS.
+•	Attended a meeting with the Department of Energy Management (DEM) to discuss support for the Hydropower plant inspections and preparation of Transmission Line and Substation inspection standards and manuals.
+•	Attended a meeting with EdL Vientiane distribution teams to discuss next steps in LES’ support to EdL.
+•	Facilitated coordination between Energy Exemplar and the EdL planning team to structure the training and data imports to PLEXOS.
+3.2	LIST OF MEETINGS 
+1.3.1	Summary of Meeting with DEM
+May 15, 2023 
+LES: Kiran Sabbineni, Randall Nottingham, Kamsing Phosalath, Viengnakhone Lavongvilay
+DEM: Houmpanh Vongphachanh, 
+Discussions: 
+The purpose of this meeting was to discuss LES’ scope and schedule for the Hydropower plant inspections.  
+•	DEM is planning to inspect six Hydro Power plants in two phases. The objective of these visits is to collect operational data and review reservoir management practices. DEM requested USAID’s financial assistance in conducting this trip.
+•	USAID-LES offered financial and technical assistance for this trip. LES’ Experts will accompany DEM’s staff to the Hydro Power plants to provide insights on rule curves and operational data flow. 
+•	Mr. Houmpanh mentioned that outside experts would need special approval from the Minister of Energy and Mines and that the process could take upto 10 business days. Therefore, in the interest of time, DEM would like to conduct this inspection without LES experts.
+•	DEM’s representatives will be attending an upcoming conference in Luang Prabhang, if this happens, the inspections could be postponed to a later date.
+•	LES received DEM’s request for supporting the Transmission Line and Substation inspection and design manuals. LES will respond with an offer letter and begin preparing the ToRs and checklists.  
+Key Messages	DEM would need approval from the Minister of Energy and Mines to include outside experts in the Hydropower plant inspections. If the inspections are rescheduled for a later date, DEM will seek the Minister’s approval for LES’ participation.       
+Challenge	USAID-LES will not be able to provide financial assistance for these inspections unless LES’ experts are accompanying DEM. 
+Actions	LES to develop infrastructure inspection checklists, Manuals, and ToRs incorporating DEMs scope of Hydropower Plant inspections. 
+Significance	The constraints for future joint field inspections with DEM and potential workarounds were identified during this meeting.
+
+
+1.3.2	Summary of Meeting with EdL Planning and Energy Exemplar
+May 15, 2023 
+LES: Kiran Sabbineni, Viengnakhone Lavongvilay
+EdL: Phatsalaphone Vanha, Sockpasoth Siphonthong, Alignakhone S, Manila Thalangsy, Daosamai, Kanthanachuckv, Inthapone P, Thanomsak
+Energy Exemplar: Nusrat Prova, Mark Dolan, Hai Nguyen
+Discussions: 
+This meeting was a workshop to prepare data sets for the non-PSSE data, model reservoirs and waterways.  
+Key Messages	The issues with uploading the nodal load data sets were fixed during this session. 
+Challenge	None. 
+Actions	EdL’s engineers to install the training licenses for PLEXOS and prepare for the three-day training.
+Significance	This workshop helped further the preparation of input data for successful PLEXOS adoption.
+1.3.3	Summary PLEXOS Training with EdL Planning and Energy Exemplar
+May 16, 2023 
+LES: Kiran Sabbineni, Viengnakhone Lavongvilay, Randall Nottingham
+EdL: Phatsalaphone Vanha, Sockpasoth Siphonthong, Alignakhone S, Manila Thalangsy, Kanthanachuckv, Inthapone P, Thanomsak, Kiattikhoun Chaleunxay, Latavong Bandith
+Energy Exemplar: Nusrat Prova
+Discussions: 
+This was the first PLEXOS training session organized by Energy Exemplar.  
+Key Messages	In this session EdL’s Planning and National Control Center (NCC) personnel were trained in Developing Topologies and Dynamic properties on PLEXOS. 
+Challenge	None. 
+Actions	EdL to finish the exercises for session 1 and share the list of questions for discussion prior to session 2. 
+Significance	This training session helped EdL personnel learn more about PLEXOS’ capabilities in practice.
+Photo:	 
+
+1.3.4	Summary PLEXOS Training with EdL Planning and Energy Exemplar
+May 17, 2023 
+LES: Kiran Sabbineni, Viengnakhone Lavongvilay
+EdL: Phatsalaphone Vanha, Sockpasoth Siphonthong, Alignakhone S, Manila Thalangsy, Kanthanachuckv, Inthapone P, Thanomsak, Kiattikhoun Chaleunxay, Latavong Bandith
+Energy Exemplar: Nusrat Prova
+Discussions: 
+This was the second PLEXOS training session organized by Energy Exemplar.  
+Key Messages	In this session, EdL’s Planning and National Control Center (NCC) personnel were trained in solution algorithms and Hydro modeling. 
+Challenge	None. 
+Actions	EdL to work on the exercises for session 2 and share the list of questions for discussion prior to session 3. 
+Significance	This training session helped EdL personnel model Dynamic scenarios and time slices for Hydro Power plants and Renewable Energy plants.
+Photo: 	 
+1.3.5	Summary PLEXOS Training with EdL Planning and Energy Exemplar
+May 18, 2023 
+LES: Kiran Sabbineni, Viengnakhone Lavongvilay
+EdL: Phatsalaphone Vanha, Sockpasoth Siphonthong, Alignakhone S, Manila Thalangsy, Kanthanachuckv, Inthapone P, Thanomsak, Kiattikhoun Chaleunxay, Latavong Bandith
+Energy Exemplar: Nusrat Prova
+Discussions: 
+This was the third PLEXOS training session organized by Energy Exemplar.  
+Key Messages	In this session, EdL’s Planning and National Control Center (NCC) personnel were trained in modeling constraints, stochastics and expansion planning. 
+Challenge	None. 
+Actions	EdL to work on the exercises for session 3 and share the list of questions for a follow-up discussion. 
+Significance	This training session helped EdL personnel model Dynamic scenarios and constraints for Hydro Power plants and expansion planning.
+Photo: 	 
+1.3.6	Summary of Meeting with EdLPlanning and Energy Exemplar
+May 19, 2023 
+LES: Kiran Sabbineni, Viengnakhone Lavongvilay
+EdL: Daosamai, Kanthanachuckv, Alignakhone S
+Energy Exemplar: Nusrat Prova, Mark Dolan
+Discussions: 
+This meeting was a workshop to discuss the training sessions and further the modeling of EdL’s grid in PLEXOS.  
+Key Messages	The Hydro Reservoir and Run of River models were developed during this session. 
+Challenge	None. 
+Actions	•	EdL’s Daosamai to populate the flow and volume parameters for Hydro generators and gather data on cascaded hydro.
+•	Kiran to reformat the load profile data sets for all nodes.
+Significance	This workshop helped further the preparation of input data for successful PLEXOS adoption.
+1.3.7	Summary of Meeting with EdLPlanning 
+May 22, 2023 
+LES: Kiran Sabbineni, Viengnakhone Lavongvilay, Khamsing Posalath, Sita Sengsouriya
+EdL: Daosamai, Kanthanachuckv, Alignakhone S
+Energy Exemplar: Nusrat Prova, Mark Dolan
+Discussions: 
+This meeting was a workshop to model additional parameters of Hydro power plants and identify an approach to model cascaded Hydro Power Plants.  
+Key Messages	The Volume to Energy parameters were configured according to the available data during this meeting. 
+Challenge	None. 
+Actions	Energy Exemplar to share examples of Hydro Generator models applicable to EdL 
+Significance	This workshop helped further the preparation of input data for successful PLEXOS adoption.
+1.3.8	Summary of Meeting with EdL distribution (VT-1 and VT-II) 
+May 23, 2023 
+LES: Kiran Sabbineni, Kamsing Phosalath, Viengnakhone Lavongvilay, Randall Nottingham
+EdL: Vassana Phetlamphanh (Manager, EdL Distribution, VT-1), Phetsamone (Manager, EdL Distribution, VT-II)
+Discussions: 
+The purpose of this meeting was to identify issues faced by EdL’s distribution teams and discuss next steps in LES’ support to EdL’s distribution in improving operations and reducing losses.  
+•	EdL’s VT-1 and VT-II managers summarized the issues faced by each of their branches and identified common themes.
+•	LES will conduct a detailed assessment to identify priority areas in coordination with VT-I and VT-II.
+•	Both VT-I and VT-II teams have agreed to share necessary data for the assessment.
+•	The participants also identified safety training and equipment as a priority item.
+Key Messages	EdL’s Distribution teams will share the required data and information with LES for a preliminary assessment of their grids.
+Challenge	None at this stage. 
+Actions	•	Kiran to prepare an RFI with information needed from VT-I and VT-II.
+Significance	This meeting helped establish coordination with EdL distribution and further the distribution-related activities under Objective 3 of the Work Plan.
+
+1.3.9	Summary of Meeting with EdLPlanning and Energy Exemplar 
+May 23, 2023 
+LES: Kiran Sabbineni, Viengnakhone Lavongvilay, Khamsing Posalath, Sita Sengsouriya
+EdL: Daosamai, Alignakhone S
+Energy Exemplar: Nusrat Prova, Mark Dolan
+Discussions: 
+Key Messages	The Regional and nodal data sets will need to be developed and uploaded separately to generate demand forecasts. 
+Challenge	None. 
+Actions	Energy Exemplar to invite their Senior Hydro analyst to help model Hydro parameters. 
+Significance	This workshop helped further the preparation of input data for successful PLEXOS adoption.
+Photo:	 
+
+1.3.10	Summary of Meeting with EdL Planning and Energy Exemplar
+May 24, 2023 
+LES: Kiran Sabbineni, Kamsing Phosalath, Viengnakhone Lavongvilay, Sita Sengsouriya
+EdL: Daosamai, Alignakhone S
+Energy Exemplar: Andrej Trpovski, Nusrat Prova, Mark Dolan
+Discussions: 
+This meeting was a workshop to discuss issues faced in developing nodal demand forecasts and cascaded hydropower plants.
+•	For demand forecasts, the loads will need to be developed regionally and disaggregated for other specific analyses.
+•	The Hydro Power plants are currently categorized as run-of-river and reservoir based. EdL does not have the specific data to model cascaded Hydro plants in PLEXOS. 
+•	EdL is interested in working on Capacity expansion planning for the Trial period. Therefore, granular data on Waterways may not be necessary at this stage.
+  
+Key Messages	EdL’s planning team will focus on Capacity expansion planning analyses during the trial period. The data inputs necessary from NCC and MEM will be collected as the modeling efforts progress. 
+Challenge	None. 
+Actions	EdL to aggregate nodal loads into regional loads for developing demand forecasts.
+Significance	This workshop helped further the preparation of input data for successful PLEXOS adoption.
+
+1.3.11	Summary of Meeting with USAID
+May 24, 2023 
+LES: Kiran Sabbineni, Randall Nottingham
+USAID: Pao Vongsikeo 
+Discussions: 
+The purpose of this meeting was to debrief on the activities and accomplishments of ESG’s May 2023 trip.  
+•	Six activities were planned for the May 2023 trip to Laos. We accomplished all six and additionally engaged with DEM on infrastructure inspections.
+•	The initial assessment of existing planning tools and practices was completed successfully. The assessment of current and projected use cases is ongoing.
+•	Migration of all PSS/E data and initial hydrologic and load data to Plexos is complete.
+•	Development of initial model and visualization of Lao grid in Plexos is done. This includes modeling of 32 power plants (domestic load only), reservoirs, and hydrological specifications, and the load for all 32 nodes. Additionally, the domestic and cross-border 230 KV, 115 KV, and 22 KV lines are modeled.
+•	Identification of problem statements for EdL to investigate during the trial period is completed. Agreement on common evaluation use case (PSP & NCC): Long-Term Capacity Expansion Planning.
+•	Evaluation of coordination within EdL between Power System Planning and National Control Center is in progress. However, engagement with MEM/DEPP for PLEXOS has not started.
+•	Initial training on Plexos software for EdL staff has been conducted.
+•	Ongoing support is planned during the two-month Plexos trial period (to end in July).
+•	Meetings with VT-1 and VT-2 distribution system departments to initiate baseline assessment have been conducted. Discussions regarding suitable initial support (such as safety equipment, IR camera, remote monitoring, loss assessment protocols, and pilot project) are ongoing.
+•	Pao requested that the PLEXOS assessment report contain analyses of comparable open source planning software. This analysis should also factor into the existing software being used by EdL.
+•	The evaluation report should also consider constraints such as data availability, Hydro dependence, and other non-technical limitations.
+•	The PLEXOS team will visit Laos at the end of June to support EdL mid-trial. Kiran will visit at the end of the trial to present findings to USAID and potentially to other donor organizations. 
+Key Messages	All six tasks that were planned for the trip were accomplished.       
+Challenge	USAID-LES will not be able to provide financial assistance for these inspections unless LES’ experts are accompanying DEM. 
+Actions	LES to develop infrastructure inspection checklists, Manuals, and ToRs incorporating DEMs scope of Hydropower Plant inspections. 
+Significance	The constraints for future joint field inspections with DEM and potential workarounds were identified during this meeting.
+
+
+4.0	OTHER
+•	Provided a write up on PEP past performance to the MCC Belize proposal team.
+•	Developed a capability statement to highlight the Power system analysis tools and capabilities of ESG. 
